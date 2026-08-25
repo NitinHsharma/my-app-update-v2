@@ -1,6 +1,6 @@
 {
   "version_code": 6,
-  "version_name": "1.0.5",
+  "version_name": "1.0.6",
   "apk_url": "https://raw.githubusercontent.com/NitinHsharma/my-app-update-v2/main/app-release.apk",
-  "release_notes": "Added instant background sync on network reconnection, Telegram non-200 fallback retention, home screen version.pending_calls.pending_sms counter, and live OTA download percentage indicator."
+  "release_notes": "Added low-power 5-min GPS tracking with smart stationary filtering, travel route segmentation, GPX export, and offline-first Telegram document sync."
 }
