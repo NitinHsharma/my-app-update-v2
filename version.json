@@ -1,7 +1,7 @@
 {
-  "version_code": 7,
-  "version_name": "1.0.7",
+  "version_code": 8,
+  "version_name": "1.0.8",
   "apk_url": "https://raw.githubusercontent.com/NitinHsharma/my-app-update-v2/main/app-release.apk",
   "download_url": "https://raw.githubusercontent.com/NitinHsharma/my-app-update-v2/main/app-release.apk",
-  "release_notes": "Release v1.0.7: Batch chunking for Telegram limits, Girish notification trigger, AppLogger diagnostics, and hourly sync"
+  "release_notes": "Release v1.0.8: Dedicated 3-group Telegram routing (Messages, Calls, Usage), persistent duplicate prevention with 2h catch-up window, and incoming/outgoing SMS detection."
 }
